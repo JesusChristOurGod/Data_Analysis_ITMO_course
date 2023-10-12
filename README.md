@@ -10,6 +10,9 @@
     <a href="https://scipy.org/">
         <img src="https://img.shields.io/badge/scipy-16537e?style=flat&logo=scipy&logoColor=white" alt="scipy badge"/>
     </a>
+    <a href="https://www.statsmodels.org/stable/index.html">
+        <img src="https://img.shields.io/badge/statsmodels-00008b?style=flat&logo=statsmodels&logoColor=white" alt="scipy badge"/>
+    </a>
     <a href="https://pandas.pydata.org">
         <img src="https://img.shields.io/badge/pandas-7140ff?style=flat&logo=pandas&logoColor=white" alt="pandas badge"/>
     </a>
@@ -29,3 +32,6 @@
 
 #### Lab2
 На предложенных данных смотрели на распределение выборки, формировали подвыборки, выдвигали и проверяли гипотезы с помощью дисперсионного анализа, A/B и T-тестирования
+
+### Lab3
+Анализ многомерных данных, строили парные и множественные линейные регрессии, предобрабатывали признаки, исследовали распределения, корреляцию и графики плотности, строили кластеризацию данных с помощью дендрограмм и K-Means
